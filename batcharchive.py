@@ -1,7 +1,7 @@
 import savepagenow
 import time
 
-# Add entries to dictionary. Key = Name, Value = Phone Number
+# Add entries to dictionary. Key = Website URL
 websitelist = {"www.example.com",
                "www.example2.com",
                 }
